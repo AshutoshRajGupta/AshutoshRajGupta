@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi  👋  I am @Ashutosh Raj Gupta currently studying in D Y Patil College Of Engineering Akurdi pune
+
 
 <!--
 **AshutoshRajGupta/AshutoshRajGupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
