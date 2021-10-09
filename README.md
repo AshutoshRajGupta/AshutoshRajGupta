@@ -1,5 +1,5 @@
  #### Hi  👋  I am @Ashutosh Raj Gupta currently studying in D Y Patil College Of Engineering Akurdi pune
- #### I am interested in coding 
+ #### I am interested in coding and web development.
  #### Currently learning c++ and have a knowledge of python
  #### I’m looking to collaborate on projects related to Web designing
  #### 📫 How to reach me:
