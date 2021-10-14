@@ -6,6 +6,7 @@
  #### 📫 How to reach me:
  #### you can reach me on my linkedin https://www.linkedin.com/in/ashutosh-raj-gupta-18230820b
  #### you can reach me on my Facebook https://www.facebook.com/profile.php?id=100022615870474
+ #### #### you can reach me on my Instagram https://www.instagram.com/guptaashutoshraj?r=nametag
 
 <!--
 **AshutoshRajGupta/AshutoshRajGupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
