@@ -1,8 +1,7 @@
- #### Hi  👋  I am @Ashutosh Raj Gupta currently studying in D Y Patil College Of Engineering Akurdi pune
+ #### Hi  👋  I am @Ashutosh Raj Gupta currently studying in D Y Patil College Of Engineering Akurdi pune.
  #### I am currently pursuing my second  year Bachelor of Engineering in Computer Engineering.
- #### I am interested in coding and web development.
- #### Currently learning Android Dev ,Flutter and Java ,have a knowledge of python
- #### I’m looking to collaborate on projects related to Web designing
+ #### Currently learning Android Dev ,Flutter and Java ,have a knowledge of python and Web Development(HTML & CSS)
+ #### Hobbies - listening musics,playing volleyball and learning new things.
  #### 📫 How to reach me:
  #### you can reach me on my linkedin https://www.linkedin.com/in/ashutosh-raj-gupta-18230820b
  #### you can reach me on my Facebook https://www.facebook.com/profile.php?id=100022615870474
