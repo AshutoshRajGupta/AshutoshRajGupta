@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutoshrajgupta&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshrajgupta" /> </p>
 
 <h4> I am currently pursuing my second  year Bachelor of Engineering in Computer Engineering from D Y Patil College Of Engineering Akurdi,pune</h4>
-<h4>Currently learning SQL AND MYSQL,Flutter and Java ,have a knowledge of python and Web Development(HTML & CSS & JS)</h4>
+<h4>Currently learning React, MYSQL,Flutter and Java ,have a knowledge of python ,c++ and Web Development(HTML & CSS & JS)</h4>
 <h4>Love to help and work with people</h4>
 <h4>Hobbies - listening musics,playing volleyball,cricket and learning new things and sketching.</h4>
 
