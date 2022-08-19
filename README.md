@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Ashutosh Raj Gupta</h1>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutoshrajgupta&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshrajgupta" /> </p>
 
 <h4> I am currently pursuing my second  year Bachelor of Engineering in Computer Engineering from D Y Patil College Of Engineering Akurdi,pune</h4>
