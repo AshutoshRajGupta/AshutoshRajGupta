@@ -1,7 +1,8 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-  
+ 
+<h1 align="center">Hi 👋, I'm Ashutosh Raj Gupta</h1
 
 ### <div align="center">I'm Ashutosh, a full-time Frontend developer and python development...👨‍💻  🚀</div>  
   
@@ -17,6 +18,8 @@
 
 - ⚡ Fun fact: I am not funny but i am very funny.😀  
   
+  
+- 📫 How to reach me *ag2364443@gmail.com*
 
 <br/>  
 
@@ -80,8 +83,8 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://dev.to/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+<a href="https://www.hackerrank.com/ag2364443" target="_blank">
+<img src=https://img.shields.io/badge/hackerank-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=hackerank style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/AshutoshRajGupta" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -98,6 +101,7 @@
 <a href="https://instagram.com/guptaashutoshraj" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
+ 
 </div>  
   
 
@@ -106,6 +110,8 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AshutoshRajGupta&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutoshrajgupta&" alt="ashutoshrajgupta" /></p>
+  </div>
 
 <br/>  
 
