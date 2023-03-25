@@ -4,16 +4,16 @@
  
 <h1 align="center">Hi 👋, I'm Ashutosh Raj Gupta</h1
 
-### <div align="center">I'm Ashutosh, a full-time Frontend developer and python development...👨‍💻  🚀</div>  
+### <div align="center">I'm Ashutosh, a Full Stack Web Developer.👨‍💻  🚀</div>  
   
 
-- 🔭 I’m currently working on [Portfolio](https://portfolio-eight-omega-35.vercel.app/)  
+- 🔭 I’m currently working on [Portfolio](https://portfolio-5ult.vercel.app/)  
   
 
-- 🌱 I’m currently learning React ,Django and Node js.  
+- 🌱 I’m currently learning React and Node js.  
   
 
-- ❓ Ask me about anything related to Python and Mysql,Mongodb.  
+- ❓ Ask me about anything related to Python, React, Mysql,Mongodb.  
   
 
 - ⚡ Fun fact: I am not funny but i am very funny.😀  
