@@ -86,6 +86,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/ashutoshrajgupta/ashutoshrajgupta/blob/output/snake.svg" alt="Snake animation" />
 
 ###
