@@ -26,11 +26,15 @@
 
 ###
 
+<h1 align="center">My Self Ashutosh Raj Gupta 👋</h1>
+
+###
+
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm currently pursuing BE from D Y PATIL COLLEGE OF ENGINEERING<br><br>- 🔭 I’m a FULL STACK WEB DEVELOPER<br>- 📚 I'm currently learning DSA and NODEJS<br>- ⚡ In my free time I watch Movies and Listening Music....</p>
 
 ###
 
