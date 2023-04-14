@@ -26,7 +26,7 @@
 
 ###
 
-<h1 align="center">My Self Ashutosh Raj Gupta 👋</h1>
+<h1 align="center">My Self Ashutosh Raj Gupta </h1>
 
 ###
 
