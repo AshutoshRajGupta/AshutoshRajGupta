@@ -10,17 +10,15 @@
   </a>
 
 
-  <a href="https://www.linkedin.com/in/ashutosh-raj-gupta-18230820b/" target="_blank" >
+  <a href="https://www.facebook.com/profile.php?id=100022615870474" target="_blank" >
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   </a>
 
-  <a href="https://www.linkedin.com/in/ashutosh-raj-gupta-18230820b/" target="_blank" >
+  <a href="https://www.hackerrank.com/ag2364443" target="_blank" >
   <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
   </a>
 
-  <a href="https://www.linkedin.com/in/ashutosh-raj-gupta-18230820b/" target="_blank" >
-  <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
-  </a>
+ 
   
   
 </div>
