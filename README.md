@@ -4,6 +4,7 @@
 
 ###
 
+
 <div align="center">
   <a href="https://www.linkedin.com/in/ashutosh-raj-gupta-18230820b/" target="_blank" >
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -43,7 +44,16 @@
 
 ###
 
-<p align="left">I'm currently pursuing BE from D Y PATIL COLLEGE OF ENGINEERING<br><br>- 🔭 I’m a FULL STACK WEB DEVELOPER<br>- 📚 I'm currently learning DSA and NODEJS<br>- ⚡ In my free time I watch Movies and Listening Music....</p>
+<p align="left">I'm currently pursuing BE from D Y PATIL COLLEGE OF ENGINEERING<br><br>- 🔭 I’m a FULL STACK WEB DEVELOPER<br>- 📚 I'm currently learning MERN STACK and DJANGO <br>- ⚡ In my free time I watch Movies and Listening Music....</p>
+
+###
+
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutoshrajgupta&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
+
+- 👨‍💻 All of my projects are available at [🔥OPEN HERE🔥](https://github.com/AshutoshRajGupta?tab=repositories)
+- ⚡ Fun fact **I am funny😅**
 
 ###
 
@@ -98,5 +108,6 @@
 </div>
 
 ###
+
 
 
