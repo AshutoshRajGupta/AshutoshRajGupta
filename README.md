@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Engineering Graduate from  BE from D Y PATIL COLLEGE OF ENGINEERING<br><br>- 🔭 I’m a FULL STACK WEB DEVELOPER<br>- 📚 I'm currently learning Flutter and Supabase.<br>- ⚡ In my free time I watch Movies and Listening Music....</p>
+<p align="left">Engineering Graduate from  BE from D Y PATIL COLLEGE OF ENGINEERING<br><br>- 🔭 I’m a FULL STACK DEVELOPER<br>- 📚 I'm currently learning Pyhton and React.<br>- ⚡ In my free time I watch Movies and Listening Music....</p>
 
 ###
 
