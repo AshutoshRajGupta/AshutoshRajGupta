@@ -106,38 +106,41 @@
 </div>
 
 ---
-
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 <div align="center">
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">🤖 Generative AI Application using Amazon Bedrock</h3>
-        <div align="center">  
-          <a href="https://github.com/AshutoshRajGupta" target="_blank"><img style="margin: 10px" src="https://github.com/AshutoshRajGupta/Gen-AI-applications-using-Amazon-bedrock🔗_Live_Demo-4ECDC4?style=for-the-badge" alt="Live Demo" /></a>
-          <a href="https://github.com/AshutoshRajGupta" target="_blank"><img style="margin: 10px" src="https://github.com/AshutoshRajGupta/Gen-AI-applications-using-Amazon-bedrock📖_Source_Code-FF6B6B?style=for-the-badge" alt="Source Code" /></a>
+        <h3 align="center">🤖 Generative AI with Amazon Bedrock</h3>
+        <div align="center">
+          <img src="https://via.placeholder.com/300x200/20232A/61DAFB?text=AI+App" alt="AI Project" width="280"/>
           <br><br>
+          <p>Generative AI application built using AWS Bedrock with comprehensive course notes and theoretical overviews.</p>
+          <br>
           <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-          <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+          <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
           <br><br>
-          <p><sub>🎯 This repository contains notes and key concepts from the "Generative AI Application using Amazon Bedrock" course provided by AWS Skill Builder. It also includes theoretical overviews of the AWS services used in generative AI application development.
-
-</sub></p>
+          <a href="https://github.com/AshutoshRajGupta" target="_blank">
+            <img src="https://img.shields.io/badge/📖_Source_Code-FF6B6B?style=for-the-badge" alt="Source Code" />
+          </a>
         </div>
       </td>
       <td width="50%">
         <h3 align="center">📊 Data Analytics Dashboard</h3>
         <div align="center">
-          <a href="https://github.com/AshutoshRajGupta" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/🔗_Live_Demo-4ECDC4?style=for-the-badge" alt="Live Demo" /></a>
-          <a href="https://github.com/AshutoshRajGupta" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/📖_Source_Code-FF6B6B?style=for-the-badge" alt="Source Code" /></a>
+          <img src="https://via.placeholder.com/300x200/000000/white?text=Dashboard" alt="Dashboard Project" width="280"/>
           <br><br>
+          <p>Interactive dashboard for data visualization and analytics with responsive design and real-time updates.</p>
+          <br>
           <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
           <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
           <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white" />
           <br><br>
-          <p><sub>📈 Interactive dashboard for data visualization and analytics. Built with responsive design and real-time updates.</sub></p>
+          <a href="https://github.com/AshutoshRajGupta" target="_blank">
+            <img src="https://img.shields.io/badge/📖_Source_Code-FF6B6B?style=for-the-badge" alt="Source Code" />
+          </a>
         </div>
       </td>
     </tr>
@@ -145,27 +148,33 @@
       <td width="50%">
         <h3 align="center">🛒 E-Commerce Platform</h3>
         <div align="center">
-          <a href="https://github.com/AshutoshRajGupta" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/🔗_Live_Demo-4ECDC4?style=for-the-badge" alt="Live Demo" /></a>
-          <a href="https://github.com/AshutoshRajGupta" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/📖_Source_Code-FF6B6B?style=for-the-badge" alt="Source Code" /></a>
+          <img src="https://via.placeholder.com/300x200/092E20/white?text=E-Commerce" alt="E-Commerce Project" width="280"/>
           <br><br>
+          <p>Complete e-commerce solution with user authentication, payment integration, and admin dashboard.</p>
+          <br>
           <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
           <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
           <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
           <br><br>
-          <p><sub>🛍️ Complete e-commerce solution with user authentication, payment integration, and admin dashboard.</sub></p>
+          <a href="https://github.com/AshutoshRajGupta" target="_blank">
+            <img src="https://img.shields.io/badge/📖_Source_Code-FF6B6B?style=for-the-badge" alt="Source Code" />
+          </a>
         </div>
       </td>
       <td width="50%">
         <h3 align="center">🎮 Interactive Game</h3>
         <div align="center">
-          <a href="https://github.com/AshutoshRajGupta" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/🔗_Live_Demo-4ECDC4?style=for-the-badge" alt="Live Demo" /></a>
-          <a href="https://github.com/AshutoshRajGupta" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/📖_Source_Code-FF6B6B?style=for-the-badge" alt="Source Code" /></a>
+          <img src="https://via.placeholder.com/300x200/F7DF1E/black?text=Game" alt="Game Project" width="280"/>
           <br><br>
+          <p>Browser-based interactive game with engaging gameplay mechanics and responsive design.</p>
+          <br>
           <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
           <br><br>
-          <p><sub>🎯 Browser-based interactive game with engaging gameplay mechanics and responsive design.</sub></p>
+          <a href="https://github.com/AshutoshRajGupta" target="_blank">
+            <img src="https://img.shields.io/badge/📖_Source_Code-FF6B6B?style=for-the-badge" alt="Source Code" />
+          </a>
         </div>
       </td>
     </tr>
@@ -174,7 +183,7 @@
 
 <div align="center">
   <a href="https://github.com/AshutoshRajGupta?tab=repositories">
-    <img src="https://img.shields.io/badge/🔥_Explore_All_Projects_🔥-FF6B6B?style=for-the-badge&logoColor=white" alt="All Projects"/>
+    <img src="https://img.shields.io/badge/🔥_View_All_Projects_🔥-FF6B6B?style=for-the-badge" alt="All Projects"/>
   </a>
 </div>
 
