@@ -138,13 +138,6 @@
 
 ---
 
-## 🎯 Coding Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=ashutoshrajgupta&theme=tokyonight&hide_border=true" alt="Wakatime Stats" />
-</div>
-
----
 
 ## 🤝 Let's Connect & Collaborate
 
@@ -158,19 +151,13 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://www.facebook.com/profile.php?id=100022615870474" target="_blank">
-          <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-          <br>Social Connection
-        </a>
-      </td>
-      <td align="center">
         <a href="https://www.hackerrank.com/ag2364443" target="_blank">
           <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
           <br>Coding Challenges
         </a>
       </td>
       <td align="center">
-        <a href="mailto:your.email@example.com" target="_blank">
+        <a href="mailto:ag2364443@gmail.com.com" target="_blank">
           <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
           <br>Direct Contact
         </a>
@@ -179,28 +166,6 @@
   </table>
 </div>
 
----
-
-## 💡 Quick Stats
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🚀_Years_of_Coding-3+-FF6B6B?style=for-the-badge" alt="Years of Coding"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/💻_Projects_Completed-25+-4ECDC4?style=for-the-badge" alt="Projects"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/☕_Coffee_Consumed-∞-F7DC6F?style=for-the-badge" alt="Coffee"/>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🎯_Problem_Solving-Expert-00D9FF?style=for-the-badge" alt="Problem Solving"/>
-      </td>
-    </tr>
-  </table>
-</div>
 
 ---
 
