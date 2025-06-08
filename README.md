@@ -31,11 +31,11 @@
 
 🎓 **Engineering Graduate** from D Y Patil College of Engineering  
 🚀 **Full Stack Developer** passionate about creating scalable solutions  
-🤖 **AI Enthusiast** currently exploring GenAI and modern web technologies  
+🤖 **AI Enthusiast** currently exploring GenAI, RAG, LANGCHAIN and LANGGRAPH technologies  
 🎯 **Problem Solver** who loves turning complex challenges into elegant code  
 
 ### 🔭 Current Focus
-- 🌱 Learning **Generative AI** and **Next.js**
+- 🌱 Learning **Generative AI** and **Data Engineering.**
 - 🔧 Building full-stack applications with modern tech stacks
 - 📊 Exploring data-driven solutions and machine learning
 - 🎨 Crafting intuitive user experiences
@@ -58,7 +58,6 @@
           <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
           <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-          <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
           <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
         </p>
       </td>
@@ -78,7 +77,6 @@
         <h3>⚙️ Backend Development</h3>
         <p>
           <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-          <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
           <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
           <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
         </p>
@@ -88,7 +86,6 @@
         <p>
           <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
           <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-          <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
           <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
         </p>
       </td>
@@ -116,16 +113,18 @@
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">🤖 AI-Powered Web App</h3>
+        <h3 align="center">🤖 Generative AI Application using Amazon Bedrock</h3>
         <div align="center">  
-          <a href="https://github.com/AshutoshRajGupta" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/🔗_Live_Demo-4ECDC4?style=for-the-badge" alt="Live Demo" /></a>
-          <a href="https://github.com/AshutoshRajGupta" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/📖_Source_Code-FF6B6B?style=for-the-badge" alt="Source Code" /></a>
+          <a href="https://github.com/AshutoshRajGupta" target="_blank"><img style="margin: 10px" src="https://github.com/AshutoshRajGupta/Gen-AI-applications-using-Amazon-bedrock🔗_Live_Demo-4ECDC4?style=for-the-badge" alt="Live Demo" /></a>
+          <a href="https://github.com/AshutoshRajGupta" target="_blank"><img style="margin: 10px" src="https://github.com/AshutoshRajGupta/Gen-AI-applications-using-Amazon-bedrock📖_Source_Code-FF6B6B?style=for-the-badge" alt="Source Code" /></a>
           <br><br>
           <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
           <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
           <br><br>
-          <p><sub>🎯 Full-stack application integrating AI capabilities with modern web technologies. Features real-time data processing and intuitive user interface.</sub></p>
+          <p><sub>🎯 This repository contains notes and key concepts from the "Generative AI Application using Amazon Bedrock" course provided by AWS Skill Builder. It also includes theoretical overviews of the AWS services used in generative AI application development.
+
+</sub></p>
         </div>
       </td>
       <td width="50%">
