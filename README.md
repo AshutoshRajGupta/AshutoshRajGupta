@@ -47,8 +47,8 @@ const ashutosh = {
 
 ### 🌟 **Journey Highlights**
 - 🎓 **Engineering Graduate** from D Y Patil College
-- 💻 **3+ Years** of coding adventures
-- 🏆 **Problem Solver** extraordinaire
+- 💻 **2+ Years** of coding adventures
+- 🏆 **Problem Solver** ordinaire
 - 🤖 **AI Pioneer** in the making
 - 🎬 **Creative Soul** with a passion for movies & music
 
@@ -125,46 +125,8 @@ const ashutosh = {
 
 ---
 
-## <div align="center">🎯 Featured Projects Showcase</div>
 
-<div align="center">
-<table>
-<tr>
-<td width="50%">
 
-### 🚀 **AI-Powered Solutions**
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashutoshrajgupta&repo=your-ai-project&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/ashutoshrajgupta/your-ai-project)
-
-**Tech Stack:** Python, FastAPI, LangChain  
-**Features:** RAG Implementation, GenAI Integration
-
-</td>
-<td width="50%">
-
-### 💻 **Full-Stack Application**
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ashutoshrajgupta&repo=your-fullstack-app&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/ashutoshrajgupta/your-fullstack-app)
-
-**Tech Stack:** React, Node.js, MongoDB  
-**Features:** Real-time Updates, Responsive Design
-
-</td>
-</tr>
-</table>
-</div>
-
----
-
-## <div align="center">🌟 Achievement Gallery</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ashutoshrajgupta&theme=onedark&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashutoshrajgupta&theme=dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=79C0FF&fire=FF7B72&currStreakLabel=58A6FF" alt="Contribution Streak"/>
-</div>
-
----
 
 ## <div align="center">🐍 Contribution Snake Game</div>
 
@@ -194,29 +156,7 @@ HTML         12 mins         █░░░░░░░░░░░░░░░░
 
 ---
 
-## <div align="center">🤝 Let's Build Something Amazing Together!</div>
 
-<div align="center">
-<table>
-<tr>
-<td align="center" width="33%">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fe15c4cc-2581-4845-a78e-18c4e011dd5e" width="100"/>
-<br><strong>Open for Collaboration</strong>
-<br>🤝 Always excited to work on innovative projects
-</td>
-<td align="center" width="33%">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8b366b99-8d4f-4c5a-93d4-6d85d21a7d0f" width="100"/>
-<br><strong>Continuous Learning</strong>
-<br>📚 Exploring new technologies daily
-</td>
-<td align="center" width="33%">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb4a156-9777-4d71-b0c2-5d0c0d0c51a6" width="100"/>
-<br><strong>Problem Solving</strong>
-<br>🧩 Turning challenges into solutions
-</td>
-</tr>
-</table>
-</div>
 
 ### 💬 **Let's Connect & Create Magic!**
 
