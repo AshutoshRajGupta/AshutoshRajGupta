@@ -35,7 +35,7 @@
 🎯 **Problem Solver** who loves turning complex challenges into elegant code  
 
 ### 🔭 Current Focus
-- 🌱 Learning **Generative AI** and **Data Engineering.**
+- 🌱 Learning **Generative AI** and **Data Analytics.**
 - 🔧 Building full-stack applications with modern tech stacks
 - 📊 Exploring data-driven solutions and machine learning
 - 🎨 Crafting intuitive user experiences
@@ -124,12 +124,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashutoshrajgupta&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-</div>
 
----
 
 ## 📈 Contribution Snake
 <div align="center">
