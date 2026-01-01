@@ -1,190 +1,126 @@
-# <div align="center">🌟 Welcome to My Digital Universe 🌟</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Ashutosh%20Raj%20Gupta&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descAlignY=55&descSize=18"/>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=45&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&multiline=true&width=850&height=300&lines=🚀+Crafting+Digital+Experiences;🤖+Building+AI-Powered+Solutions;💡+Turning+Ideas+Into+Reality;🌍+Connecting+Code+%26+Creativity" alt="Dynamic Intro" />
-</div>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/ashutosh-raj-gupta-18230820b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:ag2364443@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Gmail"/>
-  </a>
-  <a href="https://www.hackerrank.com/ag2364443">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=2EC866" alt="HackerRank"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashutoshrajgupta&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/ashutoshrajgupta?label=Followers&style=for-the-badge&color=blue&logoColor=white" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/ashutoshrajgupta?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=yellow&logoColor=white" alt="GitHub Stars" />
-</div>
-
----
-
-## <div align="center">🚀 About This Developer</div>
-
-<table align="center">
-<tr>
-<td width="50%">
-
-### 🎯 **Current Mission**
-```javascript
-const ashutosh = {
-  role: "Full Stack Developer",
-  focus: ["GenAI", "Data Analytics", "Scalable Solutions"],
-  currentlyLearning: ["LangChain", "LangGraph", "RAG Systems"],
-  collaboration: "Always open for innovative projects",
-  funFact: "I believe great code tells a story 📖"
-};
-```
-
-### 🌟 **Journey Highlights**
-- 🎓 **Engineering Graduate** from D Y Patil College
-- 💻 **2+ Years** of coding adventures
-- 🏆 **Problem Solver** ordinaire
-- 🤖 **AI Pioneer** in the making
-- 🎬 **Creative Soul** with a passion for movies & music
-
-</td>
-<td width="50%">
-
-<div align="center">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="400px" alt="Coding Animation"/>
-</div>
-
-### 📊 **Quick Stats**
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashutoshrajgupta&theme=tokyonight)
-
-</div>
-
-</td>
-</tr>
-</table>
-
----
-
-## <div align="center">⚡ Tech Arsenal & Superpowers</div>
-
-<div align="center">
-
-### 🎨 **Frontend Mastery**
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,ts,materialui,tailwind&theme=dark" />
-
-### ⚙️ **Backend Wizardry**
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,cpp&theme=dark" />
-
-### 🗄️ **Database & Cloud Magic**
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,aws,docker,redis&theme=dark" />
-
-### 🛠️ **Developer Tools**
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,jupyter&theme=dark" />
-
-</div>
-
-<div align="center">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack&align=center&titleAlign=center&fontSize=20&lineCount=3&theme=github_dark&line1=react%2Creact%2C61DAFB%3Bnextjs%2CNext.js%2C000000%3Bjavascript%2CJavaScript%2CF7DF1E%3B&line2=nodejs%2CNode.js%2C339933%3Bexpress%2CExpress%2C000000%3Bmongodb%2CMongoDB%2C47A248%3B&line3=python%2CPython%2C3776AB%3Baws%2CAWS%2CFF9900%3Bdocker%2CDocker%2C2496ED%3B" alt="Tech Stack" />
-</div>
-
----
-
-## <div align="center">📈 GitHub Universe Analytics</div>
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ashutoshrajgupta&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF" alt="GitHub Stats"/>
-
-</td>
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshrajgupta&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages"/>
-
-</td>
-</tr>
-</table>
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=ashutoshrajgupta&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117&stroke=58A6FF&ring=79C0FF&fire=FF7B72&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=F0F6FC&sideNums=F0F6FC" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ashutoshrajgupta&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=79C0FF&point=FF7B72" width="100%" alt="Activity Graph"/>
-</div>
-
----
-
-
-
-
-## <div align="center">🐍 Contribution Snake Game</div>
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-</picture>
-</div>
-
----
-
-## <div align="center">📊 Weekly Development Breakdown</div>
-
-<div align="center">
-
-```text
-JavaScript   12 hrs 30 mins  ████████████████░░░░░   65.2%
-Python       4 hrs 15 mins   ████████░░░░░░░░░░░░░   22.1%
-TypeScript   1 hr 45 mins    ███░░░░░░░░░░░░░░░░░░   9.1%
-CSS          30 mins         ██░░░░░░░░░░░░░░░░░░░   2.6%
-HTML         12 mins         █░░░░░░░░░░░░░░░░░░░░   1.0%
-```
-
-</div>
-
----
-
-
-
-### 💬 **Let's Connect & Create Magic!**
-
-<div align="center">
-<a href="https://www.linkedin.com/in/ashutosh-raj-gupta-18230820b/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5&color=0077B5" alt="LinkedIn"/>
-</a>
-<a href="mailto:ag2364443@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=D14836" alt="Gmail"/>
-</a>
-<a href="https://www.hackerrank.com/ag2364443" target="_blank">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=2EC866&color=2EC866" alt="HackerRank"/>
-</a>
-</div>
-
----
-
-<div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=✨+Thanks+for+visiting+my+digital+space!+✨;🚀+Let's+build+the+future+together!+🚀;💡+Innovation+meets+dedication+here!+💡;🌟+Your+next+great+collaborator+awaits!+🌟" alt="Footer Message" />
-</div>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling"/>
-</div>
+# 👋 Welcome to My Digital Space!
 
 <div align="center">
   
-### 🔥 **Profile Engagement**
-![](https://hit.yhype.me/github/profile?user_id=ashutoshrajgupta)
+### Hi there, I'm **Ashutosh Raj Gupta** 
+### Full Stack Developer | Generative AI Engineer
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ag2364443@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashutosh-raj-gupta-18230820b/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-pi-lyart-33.vercel.app/)
+
+![Profile Views](https://komarev.com/ghpvc/?username=AshutoshRajGupta&color=blueviolet&style=for-the-badge)
+![GitHub Followers](https://img.shields.io/github/followers/AshutoshRajGupta?style=for-the-badge&color=blue)
+![GitHub Stars](https://img.shields.io/github/stars/AshutoshRajGupta?style=for-the-badge&color=yellow)
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🚀 Full Stack Developer passionate about building scalable web applications
+- 🤖 Generative AI Engineer exploring the frontiers of artificial intelligence
+- 🎯 Focused on creating innovative solutions that blend web development with AI
+- 🤝 Open to collaborate on exciting projects involving AI, web development, or both
+- 📚 Currently diving deep into advanced AI architectures and full-stack technologies
+- ⚡ Fun fact: I code with coffee in one hand and creative ideas in the other!
+
+### 🌟 Journey Highlights
+* 🎓 Engineering Graduate from D Y Patil College
+* 💻 2+ Years of coding adventures
+* 🏆 Problem Solver extraordinaire
+* 🤖 AI Pioneer in the making
+* 🎬 Creative Soul with a passion for movies & music
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend Development
+<div align="center">
+  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+</div>
+
+### Backend Development
+<div align="center">
+  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+### Database
+<div align="center">
+  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Chroma](https://img.shields.io/badge/Chroma_DB-FF6F00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMiAxMkwxMiAyMkwyMiAxMkwxMiAyWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc+Cg==&logoColor=white)
+
+</div>
+
+### AI & Machine Learning Tools
+<div align="center">
+  
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=graphql&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-8B5CF6?style=for-the-badge&logo=openai&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Tools-00C4CC?style=for-the-badge&logo=databricks&logoColor=white)
+![Chatbot](https://img.shields.io/badge/AI_Chatbot-25D366?style=for-the-badge&logo=wechat&logoColor=white)
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  
+![Snake animation](https://raw.githubusercontent.com/AshutoshRajGupta/AshutoshRajGupta/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+I'm always excited to collaborate on innovative projects, discuss tech trends, or just have a friendly chat about code and AI! 
+
+Feel free to reach out through any of the platforms above. Let's build something amazing together! 🚀
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashutosh-raj-gupta-18230820b/)
+[![Portfolio](https://img.shields.io/badge/Check_Out_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-pi-lyart-33.vercel.app/)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💡 "Code is like humor. When you have to explain it, it's bad." - Cory House
+
+⭐ From [AshutoshRajGupta](https://github.com/AshutoshRajGupta)
 
 </div>
