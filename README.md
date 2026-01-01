@@ -1,7 +1,7 @@
 # 👋 Welcome to My Digital Space!
 
 <div align="center">
-  
+
 ### Hi there, I'm **Ashutosh Raj Gupta** 
 ### Full Stack Developer | Generative AI Engineer
 
@@ -95,10 +95,14 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/AshutoshRajGupta/AshutoshRajGupta/output/snake.svg)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+</picture>
 </div>
+
+
 
 ---
 
