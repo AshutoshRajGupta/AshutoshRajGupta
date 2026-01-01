@@ -1,9 +1,18 @@
+<div align="center">
+  
 # 👋 Welcome to My Digital Space!
 
-<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=940&lines=Hi+there!+I'm+Ashutosh+Raj+Gupta+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Generative+AI+Engineer+%F0%9F%A4%96;Building+the+Future+with+Code+%26+AI+%F0%9F%9A%80" alt="Typing SVG" />
 
-### Hi there, I'm **Ashutosh Raj Gupta** 
-### Full Stack Developer | Generative AI Engineer
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Innovation-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-Powered-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Always-Learning-green?style=for-the-badge" />
+</p>
+
+### 💫 Transforming Ideas into Reality through Code & Artificial Intelligence
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 </div>
 
@@ -94,6 +103,7 @@
 
 ## 🐍 Contribution Snake
 
+
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
@@ -101,8 +111,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
-
-
 
 ---
 
